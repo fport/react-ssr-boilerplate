@@ -1,5 +1,5 @@
 module.exports = {
-    presents: ['@babel/env', '@babel/react'],
+    presets: ['@babel/env', '@babel/react'],
     plugins: [
         '@babel/plugin-transform-runtime',
         '@babel/plugin-transform-async-to-generator',
@@ -7,4 +7,4 @@ module.exports = {
         '@babel/proposal-object-rest-spread',
         '@babel/proposal-class-properties'
     ]
-}
+};
