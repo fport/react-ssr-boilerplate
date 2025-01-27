@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "dependencies": {
-    "@babel/register": "^7.16.7",
+    "@babel/register": "^7.25.9",
     "axios": "^0.24.0",
     "ignore-styles": "^5.0.1",
     "react": "^17.0.1",
